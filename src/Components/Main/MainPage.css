@@ -1,0 +1,25 @@
+.rating-btn-hover{
+    color: #7c848f;
+    background: #262e38;
+    cursor:pointer
+  }
+  .rating-btn-hover:hover{
+    color: #fff9e0;
+    background: #fa7813;
+    cursor:pointer
+  }
+  
+  .submit-btn{
+    background: #fa7813;
+    color: white;
+  }
+  .submit-btn:hover{
+    background: white;
+    color: #fa7813;
+  }
+
+  .bg-grey {
+    background-color: #7c8898;
+    color:white;
+  }
+  

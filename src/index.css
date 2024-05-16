@@ -1,0 +1,15 @@
+@media(min-width:1024px)
+{
+  body{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+}
+
+body{
+  background: #141519;
+  padding-left: 8px;
+}
